@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is the webpage dedicated to Teddy's and Sharls' adventure in C!
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[mage@tutamail.com](mailto:mage@tutamail.com)
